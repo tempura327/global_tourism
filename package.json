@@ -13,6 +13,7 @@
     "tailwind:minify": "npx tailwindcss -i ./src/styles/tailwind.css -o ./src/styles/output.css --minify"
   },
   "dependencies": {
+    "@headlessui/react": "^2.1.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },

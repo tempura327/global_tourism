@@ -25,3 +25,4 @@ dist-ssr
 
 #other
 src/styles/output.css
+package-lock.json
